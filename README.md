@@ -3,6 +3,11 @@
 Proyecto para conocer el patron Business Logic Component (BLoC).
 2019-Julio
 
+Se aplica el enfoque "Single Global Instance".
+
+En algun otro proyecto se aplicaría el "Scoped instances".
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
